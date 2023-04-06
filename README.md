@@ -9,7 +9,7 @@ ListingCreationDate: The date the listing was created. LoanStatus: The length of
 
 And many more!
 
-
+## Observations
 Some columns were removed, some variables replaced to help understand the data better for example the figures for the Listing Category were replaced withe thier variables which helped to decipher the category of loans that defaulted moreand the ones that defaulted less. This information will help The company to know what type of loan to considerate more and less, in making their decisions.
 
 There were some unusual distribution of 'Nan', worng data types, empty spaces etc. for the Nan's I used the mean value of the entire distributions in the column to fill up those spaces for my anaylsis, datatypes were changed to the current data type, changed the column names to lowercases,grouped completed and not completes laons in 0 (not completed) and 1 (completed). All these was done to arrive at what my analysis needs to give to the managment of Prosper Loans.
